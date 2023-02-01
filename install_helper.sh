@@ -25,4 +25,4 @@ EOT
 systemctl daemon-reload
 systemctl start update_repo.service
 
-date '+%Y-%m-%d %H:%M:%S - Startet Service' >> service.log
+date '+%Y-%m-%d %H:%M:%S - Started Service' >> service.log
